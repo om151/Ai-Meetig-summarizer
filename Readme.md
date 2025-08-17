@@ -21,7 +21,7 @@ A full-stack application to generate, edit, and share structured meeting summari
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/ai-meeting-summarizer.git
+git clone https://github.com/your-username/Ai-Meetig-summarizer.git
 cd ai-meeting-summarizer
 ```
 
